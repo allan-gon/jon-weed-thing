@@ -2,11 +2,9 @@
 name = "pypi"
 url = "https://pypi.org/simple"
 verify_ssl = true
-
 [dev-packages]
 flake8 = "*"
 flake8-docstrings = "*"
-jupyter = "*"
 pep8-naming = "*"
 pytest = "*"
 requests = "*"
@@ -15,7 +13,9 @@ requests = "*"
 fastapi = "*"
 pandas = "*"
 uvicorn = "*"
-plotly = "*"
+numpy = "*"
+scikit-learn = "*"
+matplotlib = "*"
 
 [requires]
 python_version = "3.7"

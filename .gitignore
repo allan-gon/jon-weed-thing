@@ -4,3 +4,5 @@
 .pytest_cache
 .vscode
 Pipfile.lock
+app/api/nearest
+app/api/vect
